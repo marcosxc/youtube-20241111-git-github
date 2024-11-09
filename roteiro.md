@@ -1,6 +1,7 @@
-# Git e GitHub para analista de dados
+# Git e GitHub para analistas de dados
+## Integrando Microsoft Fabric/Power BI ao GitHub e AzureDevOps 
 
-## Introdução ao Git e GitHub
+### Introdução ao Git e GitHub
 
 - O que é Git?
   - Onde surgiu?
@@ -33,7 +34,7 @@
 - Criando branches para desenvolvimento
 - Efetuando merges e resolvendo conflitos
 
-## Power BI Projects
+### Power BI Projects
 
 - Configurando opções no Power BI Desktop
 - Criando arquivo PBIP
@@ -44,21 +45,21 @@
     - Estrutura do cache e git.ignore
 - Efetuar commits, pushes e merges do Power BI Desktop integrando com GitHub
 
-## Integração do GitHub com Workspaces Premium
+### Integração do GitHub com Workspaces Premium
 
 - Configuração dos workspaces no Fabric
 - Configurar tokens no GitHub e conectar no Fabric
 - Sincronizar projetos entre Fabric e GitHub
 - Demonstrar commits, pushes, merges 
 
-## Integração do AzureDevOps com Workspaces Premium
+### Integração do AzureDevOps com Workspaces Premium
 
 - Logar no AzureDevOps
 - Sincronizar AzureDevOps no VsCode
 - Sincronizar projetos entre Fabric e AzureDevOps
 - Demonstrar commits, pushes, merges 
 
-## Versionamento de projeto com Git e SharePoint
+### Versionamento de projeto com Git e SharePoint
 
 - Possibilidade de versionar projetos com Git + SharePoint
 
