@@ -64,3 +64,6 @@
 - Possibilidade de versionar projetos com Git + SharePoint
 
 
+#### Links úteis
+
+- Escrever no lakehouse Fabric: https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-notebook-load-data
