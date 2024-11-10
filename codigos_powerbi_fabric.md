@@ -8,7 +8,7 @@
 ### Parâmetros
 
 Crie um parâmetro chamado `base_transacoes` do tipo texto com o endereço do arquivo na sua máquina. Por exemplo:
-`C:\Users\aliso\OneDrive\Área de Trabalho\anexos\transacoes.xlsx`
+`C:\Users\aliso\OneDrive - Fluente BI\projetos\youtube-20241111-git-github\transacoes.xlsx`
 
 Crie um parâmetro chamado `data_inicial` do tipo data com o dia 01/11/2024. Depois iremos manipular este parâmetro. 
 
