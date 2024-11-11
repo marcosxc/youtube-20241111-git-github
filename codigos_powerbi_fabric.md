@@ -208,6 +208,17 @@ getCotacoes(data_inicial, data_final)
 
 > Siga com a modelagem no vídeo
 
+Código para ioncluir no .gitignore
+```
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+```
+
+```
+https://learn.microsoft.com/pt-pt/fabric/cicd/git-integration/git-get-started?tabs=github%2CAzure%2Ccommit-to-git
+```
+
+
 ### Criação de medidas DAX
 
 ```dax
@@ -258,7 +269,7 @@ Criar o lakehouse com o nome lake
 
 
 
-### Notebook criar_moeda
+### Notebook criar_moedas
 
 ```python
 # Importação de bibliiotecas
